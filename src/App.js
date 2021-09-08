@@ -1,6 +1,6 @@
 import './App.css'
-import PasswordManager from './components/PasswordManager'
+import PasswordManger from './components/PasswordManager'
 
-const App = () => <PasswordManager />
+const App = () => <PasswordManger />
 
 export default App
